@@ -19,3 +19,6 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/bg-remove.git
+
+
+   Visit the live website:(http://127.0.0.1:5500/index.html#)(Replace this placeholder with your actual website URL)
